@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Naofal
-- 👀 I’m interested in by web development, data analysis and input operator
+- 😎 Hi👋, I’m interested in by web development front-end & back-end, data analysis and input operator
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
+- 🌐 https://wa.me/+22966186870
+- 
